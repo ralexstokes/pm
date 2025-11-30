@@ -10,7 +10,7 @@
 ### Client Team Coordinators
 | Client Team | Primary | Backup |
 |-------------|---------------------|--------------------|
-| Besu | ||
+| Besu | [Daniel Lehrner](https://github.com/daniellehrner) | [Justin Florentine](https://github.com/jflo/) |
 | Erigon | ||
 | Geth | | |
 | Grandine | | |
